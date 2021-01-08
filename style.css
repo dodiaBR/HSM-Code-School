@@ -1,0 +1,24 @@
+body {
+    text-align: justify;
+    background-color: #141414;
+    color: #fff;
+    line-height: 1.2;
+    }
+
+p {
+    text-align: justify;
+}
+
+table {
+   width: 70%;
+   border: 3px ;
+   }
+
+table thead {
+   
+}
+tr, td {
+    width: auto;
+    align-content: center;
+    text-align: center;
+}
